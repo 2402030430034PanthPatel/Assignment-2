@@ -1,0 +1,351 @@
+<html>
+<head>
+    <title>VRHR</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body class="bg-white text-black">
+    <header class="flex justify-between items-center p-4 border-b border-black">
+        <h1 class="text-3xl font-bold">VRHR</h1>
+        <nav class="space-x-4">
+            <a href="#" class="text-black">About Us</a>
+            <a href="#" class="text-black">Contact Us</a>
+        </nav>
+    </header>
+    <main class="p-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>Mohenjo-Daro</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WORLD WAR 1</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WORLD WAR 2</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>QUIT INDIA MOVEMENT</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WORLD WIDE WEB</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>RUSSIAN REVOLUTION</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>EVENT'S CALENDAR</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WANT TO ADD MORE EVENT'S</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
+<html>
+<head>
+    <title>VRHR</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body class="bg-white text-black">
+    <header class="flex justify-between items-center p-4 border-b border-black">
+        <h1 class="text-3xl font-bold">VRHR</h1>
+        <nav class="space-x-4">
+            <a href="#" class="text-black">About Us</a>
+            <a href="#" class="text-black">Contact Us</a>
+        </nav>
+    </header>
+    <main class="p-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>Mohenjo-Daro</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WORLD WAR 1</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WORLD WAR 2</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>QUIT INDIA MOVEMENT</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WORLD WIDE WEB</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>RUSSIAN REVOLUTION</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>EVENT'S CALENDAR</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+            <div class="flex items-center justify-between border-b border-black py-2">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-cube"></i>
+                    <span>WANT TO ADD MORE EVENT'S</span>
+                </div>
+                <button class="bg-black text-white px-4 py-2">Explore</button>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
+html>
+ <head>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="bg-white">
+  <div class="flex flex-col md:flex-row items-center justify-center min-h-screen p-6">
+   <div class="md:w-1/2 text-center md:text-left mb-6 md:mb-0">
+    <h1 class="text-4xl md:text-5xl font-bold mb-4">
+     Step Into History with Virtual Reality
+    </h1>
+    <p class="text-lg mb-6">
+     Experience pivotal moments in history like never before. Immerse yourself in our virtual reality reenactments and feel the past come alive.
+    </p>
+    <button class="px-6 py-2 border border-black text-black font-semibold hover:bg-gray-200">
+     Learn More
+    </button>
+   </div>
+   <div class="md:w-1/2">
+    <img alt="A historical black and white image of a large explosion with a mushroom cloud rising into the sky" height="400" src="https://storage.googleapis.com/a1aa/image/CrR_xKyQzCKBlybiPJSGtBiLYs3yPOcu71WL_g3twyY.jpg" width="600"/>
+   </div>
+
+   <html lang="en">
+    <head>
+     <meta charset="utf-8"/>
+     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+     <title>
+      Discover History
+     </title>
+     <script src="https://cdn.tailwindcss.com">
+     </script>
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+    </head>
+    <body class="bg-white text-black">
+     <div class="container mx-auto px-4 py-8">
+      <div class="text-center">
+       <p class="text-lg font-medium">
+        Explore
+       </p>
+       <h1 class="text-4xl font-bold mt-2">
+        Discover History Like Never Before
+       </h1>
+       <p class="text-lg mt-4">
+        Step into the past with our virtual reality reenactments. Experience pivotal moments in history with stunning accuracy and immersive storytelling.
+       </p>
+      </div>
+      <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+       <div>
+        <img alt="Icon representing immersive experiences" class="mx-auto mb-4" height="50" src="https://storage.googleapis.com/a1aa/image/L1u99YlmntASXNUnjpqVOahfAuVKHd9nJA9P-g-3q18.jpg" width="50"/>
+        <h2 class="text-xl font-bold">
+         Immersive Experiences That Transport You
+        </h2>
+        <p class="mt-2">
+         Feel the thrill of historical events firsthand.
+        </p>
+       </div>
+       <div>
+        <img alt="Icon representing accurate historical details" class="mx-auto mb-4" height="50" src="https://storage.googleapis.com/a1aa/image/GJKgPhzm9Sba1ZVtGMHXKTbPfrk6TUo7o_CxHtG_B54.jpg" width="50"/>
+        <h2 class="text-xl font-bold">
+         Accurate Historical Details You Can Trust
+        </h2>
+        <p class="mt-2">
+         Our team ensures every detail is meticulously researched.
+        </p>
+       </div>
+       <div>
+        <img alt="Icon representing innovative technology" class="mx-auto mb-4" height="50" src="https://storage.googleapis.com/a1aa/image/M07UvUyPPic-OBmgifMQamyBm6savuX_0NYjWgv56R8.jpg" width="50"/>
+        <h2 class="text-xl font-bold">
+         Innovative Technology for a Unique Experience
+        </h2>
+        <p class="mt-2">
+         Utilizing cutting-edge VR tech to enhance learning.
+        </p>
+       </div>
+      </div>
+     </div>
+    </body>
+   </html>
+
+   <html>
+    <head>
+     <script src="https://cdn.tailwindcss.com">
+     </script>
+    </head>
+    <body class="bg-white">
+     <div class="flex flex-col md:flex-row items-center justify-center min-h-screen">
+      <div class="md:w-1/2 p-8">
+       <h1 class="text-4xl md:text-5xl font-bold mb-4">
+        Step Into History with Virtual Reality
+       </h1>
+       <p class="text-lg md:text-xl text-gray-700">
+        Immerse yourself in the past like never before. Experience historical events through captivating virtual reality reenactments that bring history to life.
+       </p>
+      </div>
+      <div class="md:w-1/2">
+       <img alt="Ancient ruins with people exploring the site under a clear blue sky" height="600" src="https://storage.googleapis.com/a1aa/image/Lqgaozbq-JhpCc-vqx9vi4Q8BOLIWlBqrq_etEhE3Rc.jpg" width="800"/>
+      </div>
+     </div>
+    </body>
+   </html>
+      
+   <html>
+    <head>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    </head>
+    <body class="bg-white text-black">
+        <div class="container mx-auto px-4 py-8">
+            <h2 class="text-lg font-semibold">Explore</h2>
+            <h1 class="text-5xl font-bold mt-2">Unleash the Past with Virtual Experiences</h1>
+            <p class="text-lg mt-4">Dive into history like never before. Our services offer custom reenactments that bring historical events to life in a captivating way. Whether you're a student, educator, or history enthusiast, we have something for everyone.</p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
+                <div class="text-center">
+                    <i class="fas fa-cube text-5xl"></i>
+                    <h3 class="text-xl font-bold mt-4">Custom Reenactments Tailored to Your Needs</h3>
+                    <p class="mt-2">Experience your favorite historical moments recreated just for you.</p>
+                </div>
+                <div class="text-center">
+                    <i class="fas fa-cube text-5xl"></i>
+                    <h3 class="text-xl font-bold mt-4">Engaging Educational Programs for All Ages</h3>
+                    <p class="mt-2">Our programs make learning history fun and interactive.</p>
+                </div>
+                <div class="text-center">
+                    <i class="fas fa-cube text-5xl"></i>
+                    <h3 class="text-xl font-bold mt-4">Virtual Tours of Iconic Historical Sites</h3>
+                    <p class="mt-2">Explore famous landmarks from the comfort of your home.</p>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+
+    <html>
+        <head>
+            <script src="https://cdn.tailwindcss.com"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        </head>
+        <body class="bg-white text-black">
+            <footer class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div>
+                        <h3 class="text-lg font-bold mb-4">Quick Links</h3>
+                        <ul class="space-y-2">
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Home Page</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">About Us</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Contact Us</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Blog Posts</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Support Center</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold mb-4">Connect With Us</h3>
+                        <ul class="space-y-2">
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">FAQ Page</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">User Guide</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Feedback Form</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Privacy Info</a></li>
+                            <li><a href="#" class="text-gray-600 hover:text-gray-900">Site Map</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold mb-4">Stay Updated</h3>
+                        <ul class="space-y-2">
+                            <li class="flex items-center">
+                                <i class="fab fa-facebook-f mr-2"></i>
+                                <a href="#" class="text-gray-600 hover:text-gray-900">Facebook</a>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="fab fa-instagram mr-2"></i>
+                                <a href="#" class="text-gray-600 hover:text-gray-900">Instagram</a>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="fab fa-twitter mr-2"></i>
+                                <a href="#" class="text-gray-600 hover:text-gray-900">X</a>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="fab fa-linkedin-in mr-2"></i>
+                                <a href="#" class="text-gray-600 hover:text-gray-900">LinkedIn</a>
+                            </li>
+                            <li class="flex items-center">
+                                <i class="fab fa-youtube mr-2"></i>
+                                <a href="#" class="text-gray-600 hover:text-gray-900">YouTube</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="border-t border-gray-200 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
+                    <p class="text-gray-600 text-sm">&copy; 2024 Panth Patel. All rights reserved.</p>
+                    <div class="flex space-x-4 mt-4 md:mt-0">
+                        <a href="#" class="text-gray-600 hover:text-gray-900 text-sm">Privacy Policy</a>
+                        <a href="#" class="text-gray-600 hover:text-gray-900 text-sm">Terms of Service</a>
+                        <a href="#" class="text-gray-600 hover:text-gray-900 text-sm">Cookie Settings</a>
+                    </div>
+                </div>
+            </footer>
+        </body>
+        </html>
+

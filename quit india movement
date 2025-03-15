@@ -1,0 +1,32 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Quit India Movement
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+ </head>
+ <body class="bg-gray-400 text-black">
+  <div class="container mx-auto p-4">
+   <h1 class="text-center text-3xl font-bold mb-4">
+    QUIT INDIA MOVEMENT
+   </h1>
+   <div class="flex flex-col md:flex-row">
+    <div class="md:w-2/3 p-4">
+     <h2 class="text-2xl font-bold mb-4">
+      Arrival at Sabarmati Ashram: The user walks through Gandhi's Sabarmati Ashram, with spinning wheels (charkhas) and peaceful surroundings.
+     </h2>
+     <p class="text-lg">
+      Provide users with an introduction to the Quit India Movement in 1942, which was a major civil disobedience movement demanding an end to British rule in India. Include background on India's struggle for independence.
+     </p>
+    </div>
+    <div class="md:w-1/3 p-4">
+     <img alt="A historical image of Gandhi at Sabarmati Ashram with spinning wheels and peaceful surroundings" class="w-full h-auto" height="400" src="https://storage.googleapis.com/a1aa/image/2az4uI9AY2WXPVuotgOz-bIB3uh1B9ItL1c2uGrio3I.jpg" width="400"/>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

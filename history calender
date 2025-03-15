@@ -1,0 +1,174 @@
+<html>
+ <head>
+  <title>
+   Virtual Reality Reenactments
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+ </head>
+ <body class="bg-white text-black font-sans">
+  <div class="container mx-auto px-4 py-8">
+   <div class="text-center">
+    <p class="text-sm uppercase tracking-widest">
+     History
+    </p>
+    <h1 class="text-4xl font-bold mt-2">
+     Explore the Journey of Virtual Reality Reenactments
+    </h1>
+    <p class="text-lg mt-4">
+     Discover how virtual reality is reshaping our understanding of history. Experience key moments like never before.
+    </p>
+   </div>
+   <div class="mt-12 flex flex-col md:flex-row items-center">
+    <div class="md:w-1/2">
+     <img alt="Ancient ruins with people exploring the site" class="w-full h-auto" height="400" src="https://storage.googleapis.com/a1aa/image/LhXbLcibjtXAw04lSFsnl0xs9O1X5eg2kHumgWlQgFo.jpg" width="600"/>
+    </div>
+    <div class="md:w-1/2 md:pl-8 mt-8 md:mt-0">
+     <div class="flex items-center">
+      <div class="w-1 h-full bg-black">
+      </div>
+      <div class="ml-4">
+       <p class="text-2xl font-bold">
+        2500 BCE
+       </p>
+       <p class="text-xl mt-2">
+        5,000 years old
+       </p>
+       <p class="mt-4">
+        Step into the pivotal moment of American history. Witness the signing of the Declaration in immersive detail.
+       </p>
+       <button class="mt-4 px-4 py-2 border border-black text-black hover:bg-black hover:text-white transition">
+        Experience
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Timeline
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="bg-white flex justify-center items-center min-h-screen">
+  <div class="relative w-full max-w-4xl">
+   <div class="absolute left-1/2 transform -translate-x-1/2 h-full border-r-2 border-black">
+   </div>
+   <div class="flex flex-col items-center">
+    <div class="flex items-center w-full mb-8">
+     <div class="w-1/2 text-right pr-8">
+      <h2 class="text-2xl font-bold">
+       28 July 1914–11 November 1918
+      </h2>
+      <h3 class="text-xl font-semibold mt-2">
+       WORLD WAR 1
+      </h3>
+      <button class="mt-4 px-4 py-2 border border-black">
+       Discover
+      </button>
+     </div>
+     <div class="relative w-1/2">
+      <div class="absolute left-0 top-1/2 transform -translate-y-1/2 w-4 h-4 bg-black rounded-full">
+      </div>
+      <img alt="Soldiers in World War 1 battlefield" class="ml-8" height="200" src="https://storage.googleapis.com/a1aa/image/FBqnxnJ7Ari1R_4kUIWNF567fD8sYdYky2B08eF7vVs.jpg" width="300"/>
+     </div>
+    </div>
+    <div class="flex items-center w-full mb-8">
+     <div class="w-1/2 text-right pr-8">
+      <h2 class="text-2xl font-bold">
+       1 September 1939 – 2 September 1945
+      </h2>
+      <h3 class="text-xl font-semibold mt-2">
+       WORLD WAR 2
+      </h3>
+      <button class="mt-4 px-4 py-2 border border-black">
+       Discover
+      </button>
+     </div>
+     <div class="relative w-1/2">
+      <div class="absolute left-0 top-1/2 transform -translate-y-1/2 w-4 h-4 bg-black rounded-full">
+      </div>
+      <img alt="Soldiers in World War 2 battlefield" class="ml-8" height="200" src="https://storage.googleapis.com/a1aa/image/MgLB82FMRguTie56fgSam_usZPsNnLU8mo6Hzg_Xe8c.jpg" width="300"/>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Historical Events
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="bg-white text-black">
+  <div class="flex flex-col items-center">
+   <div class="flex flex-col items-center md:flex-row md:items-start md:justify-center md:space-x-8">
+    <div class="flex flex-col items-center">
+     <img alt="Mushroom cloud from an atomic explosion" class="w-full max-w-md" height="800" src="https://storage.googleapis.com/a1aa/image/zv0dpp9K6owsnkAuOm_KSk28RJPcW2uwQtzznKc_WSc.jpg" width="600"/>
+     <p class="text-center text-xl font-bold mt-4">
+      8 August 1942
+     </p>
+     <p class="text-center text-lg">
+      QUIT INDIA MOVEMENT
+     </p>
+    </div>
+    <div class="flex flex-col items-center md:items-start">
+     <div class="flex items-center space-x-2">
+      <div class="w-4 h-4 bg-black rounded-full">
+      </div>
+      <div class="h-0.5 bg-black w-16">
+      </div>
+     </div>
+     <p class="text-xl font-bold mt-2">
+      1 September 1939 – 2 September 1945
+     </p>
+     <p class="text-lg font-bold">
+      WORLD WAR 2
+     </p>
+     <button class="mt-4 px-4 py-2 border border-black">
+      Engage
+     </button>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
+<html>
+ <head>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="flex justify-center items-center min-h-screen bg-white">
+  <div class="flex flex-col md:flex-row items-center border border-black p-4">
+   <div class="flex flex-col items-center md:items-start md:pr-4">
+    <h1 class="text-3xl font-bold mb-2">
+     8 August 1942
+    </h1>
+    <h2 class="text-xl font-bold mb-4">
+     QUIT INDIA MOVEMENT
+    </h2>
+    <button class="border border-black px-4 py-2">
+     Reflect
+    </button>
+   </div>
+   <div class="border-l border-black h-full mx-4">
+   </div>
+   <div>
+    <img alt="Historical image of a person speaking into a microphone during the Quit India Movement" class="w-64 h-64 object-cover" height="300" src="https://storage.googleapis.com/a1aa/image/ZTKA5QC8c15UqzuQ15iZsxUa_DsQ-AX0GLp9PC0-DNw.jpg" width="300"/>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+ <head>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="bg-teal-500">
+  <div class="container mx-auto p-8">
+   <h1 class="text-center text-4xl font-bold text-black mb-8">
+    ABOUT US
+   </h1>
+   <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div>
+     <h2 class="text-4xl font-bold text-black mb-4">
+      Bringing History to Life Through Virtual Reality
+     </h2>
+     <p class="text-black text-lg">
+      At [Your Company Name], we believe history should be more than just words in a textbook—it should be experienced. Using cutting-edge Virtual Reality (VR) technology, we recreate pivotal moments from history, allowing users to step into the past and witness events as they unfolded. Our mission is to educate, engage, and inspire by providing immersive, historically accurate reenactments. Whether you’re walking through ancient civilizations, standing on the front lines of battle, or witnessing world-
+     </p>
+    </div>
+    <div class="grid grid-cols-1 gap-4">
+     <img alt="Ancient ruins with people walking among them" class="w-full h-auto" height="400" src="https://storage.googleapis.com/a1aa/image/0V-NQPeQQ4rFSlfQUn7YrgonZ52JLbTN_tJh-Lb_clA.jpg" width="600"/>
+     <img alt="Black and white image of a large explosion, possibly a nuclear bomb" class="w-full h-auto" height="400" src="https://storage.googleapis.com/a1aa/image/sCCndnRhUUK92S5NH0orwEqYD9d9_ZGRpf2k84MhXk4.jpg" width="600"/>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

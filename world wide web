@@ -1,0 +1,53 @@
+<html>
+ <head>
+  <title>
+   World Wide Web
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+ </head>
+ <body class="bg-white text-black font-sans">
+  <div class="container mx-auto p-4">
+   <h1 class="text-4xl font-bold text-center mb-8">
+    World Wide Web
+   </h1>
+   <div class="flex flex-col md:flex-row">
+    <div class="md:w-1/2 p-4">
+     <h2 class="text-3xl font-bold mb-4">
+      The Birth of the Web – A Virtual Journey
+     </h2>
+     <p class="text-lg mb-4">
+      Users travel through a timeline-based VR world, where they explore the major milestones of the World Wide Web. Each era could be a different interactive scene, allowing users to experience the development of the internet firsthand.
+     </p>
+     <ul class="list-none space-y-2">
+      <li class="flex items-center">
+       <i class="fas fa-cube mr-2">
+       </i>
+       <span>
+        1960s – The Internet’s Origins
+       </span>
+      </li>
+      <li class="flex items-center">
+       <i class="fas fa-cube mr-2">
+       </i>
+       <span>
+        1989 – Tim Berners-Lee Invents the World Wide Web
+       </span>
+      </li>
+      <li class="flex items-center">
+       <i class="fas fa-cube mr-2">
+       </i>
+       <span>
+        1993 – The First Web Browser (Mosaic)
+       </span>
+      </li>
+     </ul>
+    </div>
+    <div class="md:w-1/2 p-4 flex justify-center items-center">
+     <img alt="Wikipedia homepage with various language options and a globe puzzle logo in the center" class="w-full h-auto" height="400" src="https://storage.googleapis.com/a1aa/image/jY0SO975rYKCFHhFc0MfeP1J979ZZDCHntVjmnEBxqw.jpg" width="400"/>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

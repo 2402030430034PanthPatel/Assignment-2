@@ -1,0 +1,31 @@
+<html>
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body class="bg-purple-600 text-black font-sans">
+    <div class="container mx-auto p-8">
+        <h1 class="text-4xl font-bold mb-4">CONTACT US</h1>
+        <p class="text-2xl font-bold mb-4">
+            Have questions or want to collaborate? We’d love to hear from you! Whether you’re interested in experiencing our VR historical reenactments, partnering with us, or just learning more about our work, feel free to reach out.
+        </p>
+        <p class="text-lg font-bold mb-8">
+            DO YOU WANT TO ADD A HISTORICAL EVENT FROM YOUR MEMORY TO THE VR WORLD YOU CAN CONTACT US ON THE BELOW DETAIL
+        </p>
+        <div class="mb-4">
+            <p class="flex items-center text-lg mb-2">
+                <i class="fas fa-phone-alt mr-2"></i> Phone: +1 (XXX) XXX-XXXX
+            </p>
+            <p class="flex items-center text-lg mb-2">
+                <i class="fas fa-envelope mr-2"></i> Email: contact@vrhistoryexperience.com
+            </p>
+            <p class="flex items-center text-lg">
+                <i class="fas fa-facebook mr-2"></i> Facebook: @VRHistoryExperience
+            </p>
+        </div>
+        <button class="bg-black text-white py-2 px-4 rounded">
+            BACK TO THE PRESENT EXPLORER
+        </button>
+    </div>
+</body>
+</html>
